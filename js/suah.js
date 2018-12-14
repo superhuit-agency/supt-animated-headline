@@ -56,7 +56,8 @@ function loop() {
 
 document.addEventListener("DOMContentLoaded", function () {
   title = document.querySelector('.suah');
+  if ( !title ) return;
+
   lines = Array.from(title.querySelectorAll('.suah__line'));
-  
   setTimeout(loop, START_DELAY);
 });
