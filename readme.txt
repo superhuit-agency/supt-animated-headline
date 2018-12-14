@@ -27,11 +27,8 @@ A simple animated headline shortcode. Simplyfied and based on https://wordpress.
 Don't hesitate to fork this plugin and submit pull requests in the [github repo](https://github.com/superhuit-ch/supt-animated-headline).
 
 == Screenshots ==
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
 
 == Changelog ==
 
-=1.0=
+= 1.0.0 - 14.12.2018 =
 Initial Release.
